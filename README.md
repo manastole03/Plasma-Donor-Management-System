@@ -2,7 +2,7 @@
 ## Basic Idea : 
 ### In this pandemic situation, People who have fully recovered from COVID-19 for at least two weeks are encouraged to consider donating plasma, which may help save the lives of other patients.
 
-### Convalescent Plasma : Convalescent refers to anyone recovering from a disease. Convalescent plasma from patients who have already recovered from coronavirus disease 2019 (COVID-19) may contain antibodies against COVID-19. Giving this convalescent plasma to hospitalized people currently fighting COVID-19 may help them recover. Sometimes it is hard to findout these people across you. so for that I created this system which stores the information of a plasma donor.
+### Convalescent Plasma : Convalescent refers to anyone recovering from a disease. Convalescent plasma from patients who have already recovered from coronavirus disease 2019 (COVID-19) may contain antibodies against COVID-19. Giving this convalescent plasma to hospitalized people currently fighting COVID-19 may help them recover. Sometimes it is hard to find out these people across you. so for that, I created this system that stores the information of a plasma donor.
 
 ## Software Used : 
 ### 1.ecclipse
