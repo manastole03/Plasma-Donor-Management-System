@@ -1,0 +1,23 @@
+create database plasma;
+use plasma;
+
+CREATE TABLE db_table112 (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  name varchar(30) NOT NULL,
+  fathers_name varchar(30) NOT NULL,
+  family_name varchar(30) DEFAULT NULL,
+  gender varchar(10) DEFAULT NULL,
+  age int(11) DEFAULT NULL,
+  weight varchar(10) DEFAULT NULL,
+  blood_group varchar(10) NOT NULL,
+  marital_status varchar(15) DEFAULT NULL,
+  adhaar_number varchar(20) DEFAULT NULL,
+  mobile_number varchar(15) DEFAULT NULL,
+  state varchar(30) DEFAULT NULL,
+  district varchar(30) DEFAULT NULL,
+  address text,
+  photo longblob,
+  PRIMARY KEY (id)
+  ) AUTO_INCREMENT = 1001, ENGINE=InnoDB ;
+  
+  select * from db_table112;
